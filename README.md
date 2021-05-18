@@ -1,6 +1,6 @@
 ## STDnsQuery
 
-[![GO1.16](https://img.shields.io/badge/.Net-3.5-blue)](https://www.microsoft.com/zh-cn/download/details.aspx?id=25150) [![license](https://img.shields.io/badge/License-MIT-green)](https://github.com/DebugST/STDnsQuery_DotNet/blob/main/LICENSE) 
+[![.Net35](https://img.shields.io/badge/.Net-3.5-blue)](https://www.microsoft.com/zh-cn/download/details.aspx?id=25150) [![license](https://img.shields.io/badge/License-MIT-green)](https://github.com/DebugST/STDnsQuery_DotNet/blob/main/LICENSE) 
 
 STDnsQuery 是一个快速DNS查询工具 其中 DnsClient 是一个方便快捷的调用类 支持 A、NS、CNAME、DNAME 查询 使用简单 
 
